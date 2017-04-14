@@ -91,7 +91,7 @@ array(
 "",
 ),
 array(
-"",
+"G ?",
 ),
 array(
 "",
@@ -125,21 +125,16 @@ $bulan[gmdate('n',time()+60*60
 $thn = gmdate('Y',time()+60*60*7);
 $jam = str_replace($rpc,$sapa,gmdate('H',time()+60*60*7));
 
-return ''.$jam.'   👈😈👉   '.$name.' 
+return ' '.$jam.'🎵'.$name.'
  '.$hr;
-} 
+}
 
 function getPower($nm,$tm,$tk){
 $gwe=getUrl('/',$tk,array(
 'fields' => 'id,name',
 ));
 $by=array(
-      '👌Great👉
-👈Cute😘
-🍀Awesome✔👈
-👉Add Close fast👉
-👈Owner by🌹ArslanAwan🌹
-👈powered 🌹 Awan Boy🍀',
+      '',
 );
 $punyu=array(
                    '',
@@ -166,10 +161,15 @@ $ips=$me.' '.$gwe[name];
 $like=$back[rand(0,count($back)-1)];
 $eps=$like.' '.$nm;
 $ops=getJam($nm);
-$site='Visit My Blog <3 alitipz.blogspot.com <3';
+$site='👌Great👉
+👈Cute😘
+🍀Awesome✔👈
+👉Add Close fast👉
+👈Owner by🌹ArslanAwan🌹
+👈powered 🌹 Awan Boy🍀';
 $true=$ops.'
-'.$ips.'
-'.$site;
+ '.$ips.'
+ '.$site;
 
 return $true;
 }
@@ -422,7 +422,7 @@ curl_setopt_array($cx,array(
 CURLOPT_URL => $url,
 CURLOPT_CONNECTTIMEOUT => 5,
 CURLOPT_RETURNTRANSFER => 1,
-CURLOPT_USERAGENT => 'DESCRIPTION by ali',
+CURLOPT_USERAGENT => 'DESCRIPTION by haxer.heck.in',
 ));
 $ch=curl_exec($cx);
 curl_close($cx);
