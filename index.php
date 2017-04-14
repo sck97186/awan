@@ -343,7 +343,7 @@ $jam=gmdate('H',time()+60*60*7);
 echo'
 <div id="header">
 <h1 class="heading">
-<center><font color="orange" size="8"> ♥ SCRIPT MADE BY BADSHAH ♥ </font></center>
+<center><font color="orange" size="8"> ♥ SCRIPT MADE BY HAMMAD ♥ </font></center>
 </h1>
 <h2 class="description">
 </h2></div>';
