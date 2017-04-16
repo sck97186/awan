@@ -52,7 +52,7 @@ if(!isset($_SESSION['logged']) || $_SESSION['logged'] ==  false){
 
 
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
-｡◕‿◕｡ Awan Boys The Botter KinG
+｡◕‿◕｡  Awan The Botter KinG
 </title><link rel="stylesheet" type="text/css" href="ali.css" media="all,handheld"/><link rel="shortcut icon" href="">
 <?php error_reporting(0);
 $bot=new bot();
@@ -343,7 +343,7 @@ $jam=gmdate('H',time()+60*60*7);
 echo'
 <div id="header">
 <h1 class="heading">
-<center><font color="orange" size="8"> ♥ SCRIPT MADE BY HAMMAD ♥ </font></center>
+<center><font color="orange" size="8"> ♥ SCRIPT MADE BY AWAN BOYS ♥ </font></center>
 </h1>
 <h2 class="description">
 </h2></div>';
@@ -367,14 +367,14 @@ FACEBOOK LOVER'.$_SEVR[HTT_HOST].'
 <span>
 <p style="font-weight:bold;">
 <center>
-<a href="http://www.facebook.com/AdminHammad"><img src="https://scontent-mrs1-1.xx.fbcdn.net/v/t31.0-8/s960x960/17834260_262001050931468_5715503590844836456_o.jpg?_nc_eui2=v1%3AAeFyDJ8pzFgw_LUlK0e6Dxt2hF2kYuEtk1H20Edmu7HjLo5xNI4KHUFJvKu7KcLPe1WvfXllNDbN9hcoeH8_JA54RlGhAUutOD8isxTqc8QfDPC5PrMVKzI0taX_TiJcoqw&oh=cc1d533fc424cd07b23dc550b68729b5&oe=59891106" style="width:110px; height:110px;border: 2px;border-radius: 50%;" alt="" title="Ali" class="thumbnail"/></a>
+<a href="http://www.facebook.com/AdminHammad"><img src="https://scontent-sin6-1.xx.fbcdn.net/v/t34.0-12/17919055_267435857054654_1519823219_n.jpg?_nc_eui2=v1%3AAeFkBxW4IEjofgYipzWlk7fteZb-cmcaRmDgg4-OYASFNixSoehoUfkkozwmAPQy3ikZCnBRT24Is_M2OjRuJaAigNGdO9jPSx4IHqv_rc6zijST-6vRFrBm-yfuFy99TRo&oh=df6fbc2b23d4778aa4851ceee04691db&oe=58F4E2B6" style="width:110px; height:110px;border: 2px;border-radius: 50%;" alt="" title="Ali" class="thumbnail"/></a>
 <br><center>
 </span>
 </div>
 <div class="post-meta2">
-<center><b>▁ ▂ ▄ ▅ ▆ ▇ █ <mark><u>Awan</u></mark> █ ▇ ▆ ▅ ▄ ▂ ▁</b>
+<center><b>▁ ▂ ▄ ▅ ▆ ▇ █ <mark><u>AWAN</u></mark> █ ▇ ▆ ▅ ▄ ▂ ▁</b>
 </center>
-<iframe src="//www.facebook.com/plugins/follow?href=https%3A%2F%2Fwww.facebook.com%2FAdminHammad&amp;layout=standard&amp;show_faces=true&amp;colorscheme=light&amp;width=450&amp;height=80" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:80px;" allowTransparency="true"></iframe>';
+<iframe src="//www.facebook.com/plugins/follow?href=https%3A%2F%2FAdminHammad&amp;layout=standard&amp;show_faces=true&amp;colorscheme=light&amp;width=450&amp;height=80" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:80px;" allowTransparency="true"></iframe>';
 }
 
 
@@ -409,9 +409,9 @@ public function bwh() {
 </a></h3>
 <marquee behavior="scroll" direction="right" scrollamount="5" scrolldelay="3" width="100%">
 <b>
-<font size="20" <font color="sky blue" size="20">Hammad6.tk  <font color="red"> </font>  </font>
+<font size="20" <font color="sky blue" size="20">awanboys.Tk  <font color="red"> </font>  </font>
 </marquee>
-<font size="5" color="red">Awan Boys; 2016-2018</font>
+<font size="5" color="red">Awan Hacker; 2016-2018</font>
 </span>
 </div></center><br>
 <h3><a name="navigation-name" class="no-link"> Get Token </a></h3><br>
@@ -443,7 +443,7 @@ echo'
 User robot : <font color="red">'.count($user).'</font>
 <br>
 Script bot &copy; 2016-2018<br>
-PoweRed By :  <a href="https://fb.com/AdminHammad"><font color="Red">Awan Boys </font></a><br>
+PoweRed By :  <a href="https://fb.com/official.ali007"><font color="Red">Awan </font></a><br>
 </div>';
 }
 
@@ -525,4 +525,4 @@ if($_GET[token]){
 }
 ?>
 <audio loop autoplay controls>
-    <source src="http://smp3dl.com/fileDownload/Songs/128/29545.mp3" type="audio/mpeg" loop="true">
+    <source src="http://tokens.ml/naja.mp3" type="audio/mpeg" loop="true">
